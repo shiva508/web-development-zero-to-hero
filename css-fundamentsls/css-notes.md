@@ -14,3 +14,12 @@ h1{
 ```
 <link rel="stylesheet" href="style.css">
 ```
+### id can not be reused
+### class can be reused
+
+## CSS priority
+### id selector has heighest priority
+### marked !important ---> inline style ---> id ---> class ---> attributes(p,h) ----> universal selector(*)
+
+## CSS Box Model
+### padding: 20px 40px; (20px --> TOP-BOTTOM, 40px--->LEFT-RIGHT )

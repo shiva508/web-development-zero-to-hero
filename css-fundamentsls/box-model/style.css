@@ -1,3 +1,13 @@
+.main-header{
+  background-color: #f7f7f7;
+  padding: 20px;
+  padding: 20px 40px;
+}
+aside{
+  background-color: #f7f7f7;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
+}
 h1,
 h2,
 h3,
@@ -42,6 +52,7 @@ p {
 
 li {
   font-size: 20px;
+  margin-bottom: 20px;
 }
 
 /* footer p {
@@ -63,14 +74,7 @@ li {
 .related {
   list-style: none;
 }
-.main-header{
-  background-color: #f7f7f7;
-}
-aside{
-  background-color: #f7f7f7;
-  border-top: 5px solid #1098ad;
-  border-bottom: 5px solid #1098ad;
-}
+
 li:first-child{
   font-weight: bold;
 }
